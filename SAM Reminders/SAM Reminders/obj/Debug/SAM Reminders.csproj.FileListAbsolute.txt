@@ -1,0 +1,5 @@
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Reminders\SAM Reminders\obj\Debug\SAM Reminders.csprojResolveAssemblyReference.cache
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Reminders\SAM Reminders\obj\Debug\SAM_Reminders.Properties.Resources.resources
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Reminders\SAM Reminders\obj\Debug\SAM_Reminders.ReminderForm.resources
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Reminders\SAM Reminders\obj\Debug\SAM_Reminders.Reminderfrm.resources
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Reminders\SAM Reminders\obj\Debug\SAM Reminders.csproj.GenerateResource.Cache
